@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<hmtl lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Tabuada</title>
+</head>
+<body>
+    <h1>JS - EstruturaRepetição: Tabuada</h1>
+    <script src="tabuada.js"></script>
+</body>
+</hmtl>
